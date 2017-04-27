@@ -8,3 +8,4 @@ Hardware parts used are:
 - 5 Volt Power Supply
 - 5 Volt Solar Panel to Power Supplu part number C-15117-CA
 
+![alt text](https://github.com/blainbar/FeatherM0_weatherstation_LED/blob/master/images/device.jpeg)
