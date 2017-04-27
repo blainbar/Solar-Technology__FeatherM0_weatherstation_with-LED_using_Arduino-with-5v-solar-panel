@@ -35,7 +35,7 @@ Feb 12th, 2017
 //char ssid[] = "BBGUEST";         // the name of your SSID wifi network
 //char pass[] = "hendrick5";       // the name of your Password wifi network
 char ssid[] = "Verizon-MiFi5510L-65F0-Barton";       // the name of your network
-char pass[] = "c0612b16";     // the name of your network
+char pass[] = "xxxxxxxxx";     // the name of your network
 
 int status = WL_IDLE_STATUS;      // the Wifi radio's status
 
@@ -82,8 +82,8 @@ WiFiSSLClient client;
 RTCZero rtcTime;
 
 String uri = "/devices/Con1/messages/events?api-version=2016-02-03";  
-char hostname[] = "Container1.azure-devices.net";                   
-char authSAS[] = "SharedAccessSignature sr=Container1.azure-devices.net&sig=byd%2Fcl0x5KW2R%2F9rLYyKXk44c1L4KZHo%2B1Yg3noDu%2Bc%3D&se=1518225023&skn=iothubowner";
+char hostname[] = "IoT Hub Primary 1 string from Azure IoTOwner";                   
+char authSAS[] = "SharedAccessSignature string located in Device explorer";
 
 // Standard Endpoint uri below to use to send message /devices/{device name}/messages/events?api-version=2016-02-03
 // String uri = "/devices/Feather1/messages/events?api-version=2016-02-03";
