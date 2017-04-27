@@ -6,6 +6,6 @@ Hardware parts used are:
 - Adafruit Feather M0 Wifi WIN1500
 - DYI Mall .96 screen LED, part number 01531-mf1-a oled ssd1306 I2C
 - 5 Volt Power Supply
-- 5 Volt Solar Panel to Power Supplu part number C-15117-CA
+- 5 Volt Solar Panel to Power Supply part number C-15117-CA
 
 ![alt text](https://github.com/blainbar/FeatherM0_weatherstation_LED/blob/master/images/device.jpeg)
